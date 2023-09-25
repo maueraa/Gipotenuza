@@ -1,0 +1,2 @@
+# Gipotenuza
+Gipotenuzani topish loyihasi
