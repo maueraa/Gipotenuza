@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# dasturlari\\GipotenuzaniTopish\\GipotenuzaniTopish.csproj": {}
+    "C:\\CSharpProgs\\GipotenuzaTopish\\GipotenuzaniTopish.csproj": {}
   },
   "projects": {
-    "D:\\C# dasturlari\\GipotenuzaniTopish\\GipotenuzaniTopish.csproj": {
+    "C:\\CSharpProgs\\GipotenuzaTopish\\GipotenuzaniTopish.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# dasturlari\\GipotenuzaniTopish\\GipotenuzaniTopish.csproj",
+        "projectUniqueName": "C:\\CSharpProgs\\GipotenuzaTopish\\GipotenuzaniTopish.csproj",
         "projectName": "GipotenuzaniTopish",
-        "projectPath": "D:\\C# dasturlari\\GipotenuzaniTopish\\GipotenuzaniTopish.csproj",
+        "projectPath": "C:\\CSharpProgs\\GipotenuzaTopish\\GipotenuzaniTopish.csproj",
         "packagesPath": "C:\\Users\\Murodjon\\.nuget\\packages\\",
-        "outputPath": "D:\\C# dasturlari\\GipotenuzaniTopish\\obj\\",
+        "outputPath": "C:\\CSharpProgs\\GipotenuzaTopish\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

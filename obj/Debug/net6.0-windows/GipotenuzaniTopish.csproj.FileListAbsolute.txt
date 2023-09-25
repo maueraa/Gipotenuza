@@ -1,0 +1,17 @@
+C:\CSharpProgs\GipotenuzaTopish\bin\Debug\net6.0-windows\GipotenuzaniTopish.exe
+C:\CSharpProgs\GipotenuzaTopish\bin\Debug\net6.0-windows\GipotenuzaniTopish.deps.json
+C:\CSharpProgs\GipotenuzaTopish\bin\Debug\net6.0-windows\GipotenuzaniTopish.runtimeconfig.json
+C:\CSharpProgs\GipotenuzaTopish\bin\Debug\net6.0-windows\GipotenuzaniTopish.dll
+C:\CSharpProgs\GipotenuzaTopish\bin\Debug\net6.0-windows\GipotenuzaniTopish.pdb
+C:\CSharpProgs\GipotenuzaTopish\obj\Debug\net6.0-windows\GipotenuzaniTopish.csproj.AssemblyReference.cache
+C:\CSharpProgs\GipotenuzaTopish\obj\Debug\net6.0-windows\GipotenuzaniTopish.Form1.resources
+C:\CSharpProgs\GipotenuzaTopish\obj\Debug\net6.0-windows\GipotenuzaniTopish.csproj.GenerateResource.cache
+C:\CSharpProgs\GipotenuzaTopish\obj\Debug\net6.0-windows\GipotenuzaniTopish.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpProgs\GipotenuzaTopish\obj\Debug\net6.0-windows\GipotenuzaniTopish.AssemblyInfoInputs.cache
+C:\CSharpProgs\GipotenuzaTopish\obj\Debug\net6.0-windows\GipotenuzaniTopish.AssemblyInfo.cs
+C:\CSharpProgs\GipotenuzaTopish\obj\Debug\net6.0-windows\GipotenuzaniTopish.csproj.CoreCompileInputs.cache
+C:\CSharpProgs\GipotenuzaTopish\obj\Debug\net6.0-windows\GipotenuzaniTopish.dll
+C:\CSharpProgs\GipotenuzaTopish\obj\Debug\net6.0-windows\refint\GipotenuzaniTopish.dll
+C:\CSharpProgs\GipotenuzaTopish\obj\Debug\net6.0-windows\GipotenuzaniTopish.pdb
+C:\CSharpProgs\GipotenuzaTopish\obj\Debug\net6.0-windows\GipotenuzaniTopish.genruntimeconfig.cache
+C:\CSharpProgs\GipotenuzaTopish\obj\Debug\net6.0-windows\ref\GipotenuzaniTopish.dll
